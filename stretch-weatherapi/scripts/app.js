@@ -1,12 +1,8 @@
 // Use the openweather API https://www.apixu.com/,
 // (there are many weather APIs out there, but this one was particularly simple to use)
 // You can sign up quickly and they automatically will generate a free key for you.
-// Go to "my account", then click "get started" next to your api key.
-// This brings you to the interactive API explorer, try entering a city under "value".
-// it then shows you the sample "call" - you can even enter that in the browser
-// url bar and it will give you the same response that it shows in the response body in the API explorer.
 
-// use my key "463d2ded40814894889154200180901"
+// Easisest: use my key "463d2ded40814894889154200180901"
 
 // send a request to get the current weather for a city that the user enters.
 // display the relevant information to the user.
